@@ -1,0 +1,3 @@
+variable "me" {
+  type = string
+}
